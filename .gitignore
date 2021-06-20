@@ -1,0 +1,13 @@
+$ cat .gitignore
+#Whitelist
+/*
+
+#Folders
+!/config
+!/resources
+!/scripts
+!/fontfiles
+
+#Files
+!/.gitignore
+!/README.md
