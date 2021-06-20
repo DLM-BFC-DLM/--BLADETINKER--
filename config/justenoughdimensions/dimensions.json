@@ -1,0 +1,34 @@
+{
+"dimensions":[
+  {
+  "dim":19211,
+  "biome":"sakura:maple_forest",
+  "dimensiontype":
+    {
+    "id":19211,
+    "name":"The MapleForest - Sakura",
+    "suffix":"_sakura1921_M",
+    "keeploaded":false,
+    "worldprovider":"WorldProviderSurface"
+	},
+    "worldinfo": 
+      {
+      }
+  },
+  {
+  "dim":19212,
+  "biome":"sakura:bamboo_forest",
+  "dimensiontype":
+    {
+    "id":19212,
+    "name":"The BambooForest - Sakura",
+    "suffix":"_sakura1921_B",
+    "keeploaded":false,
+    "worldprovider":"WorldProviderSurface"
+	},
+    "worldinfo": 
+      {
+      }
+  }
+             ]
+}

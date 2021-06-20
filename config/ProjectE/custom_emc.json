@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "item": "torcherino:blockcompressedtorcherino|0",
+      "emc": 297297
+    },
+    {
+      "item": "torcherino:blockdoublecompressedtorcherino|0",
+      "emc": 2675673
+    },
+    {
+      "item": "taiga:vibranium_ingot|0",
+      "emc": 10000
+    },
+    {
+      "item": "draconicevolution:draconium_ingot|0",
+      "emc": 10000
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 768
+    },
+    {
+      "item": "minecraft:iron_nugget|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_ingot|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:gold_nugget|0",
+      "emc": 0
+    },
+	{
+      "item": "minecraft:gold_ingot|0",
+      "emc": 2048
+    },
+    {
+      "item": "ic2:cable|0",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|1",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|2",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|3",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|4",
+      "emc": 0
+    }
+  ]
+}
