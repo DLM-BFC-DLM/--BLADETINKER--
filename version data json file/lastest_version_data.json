@@ -1,0 +1,14 @@
+{
+	"versionName": "2.3.3",
+	"versionCode": "formal",
+	"versionFormat": "%《刀匠————刀魂，匠心》-正式版-v.2.3.3 %",
+	"changelogs": {
+		"2.3.3": [
+			"Fixed some more bugs",
+			"Added some mods(like this)",
+            "Changed Crt scripts",
+            "Added welcome words",
+            "Removed Herobrine"
+		]
+	}
+}

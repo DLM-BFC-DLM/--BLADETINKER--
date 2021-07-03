@@ -6,7 +6,7 @@ $ cat .gitignore
 !/config
 !/resources
 !/scripts
-
+!/version data json file
 #Files
 !/.gitignore
 !/README.md
