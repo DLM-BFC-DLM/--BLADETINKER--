@@ -1,2 +1,2 @@
 # --BLADETINKER--
-A modpack about the Slashblade and the Tinkers' Construct 2. Have FUN~
+A modpack: Main mods: "Slashblade" and "Tinkers' Construct 2". Have FUN~
