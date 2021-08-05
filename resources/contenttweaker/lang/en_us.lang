@@ -1,5 +1,5 @@
-tile.contenttweaker.inactive_amphibiyte_spawner.name=Amphibiyte Spawner - §6§oInactive
-tile.contenttweaker.inactive_nethengeic_beast_spawner.name=Nethengic Beast Spawner - §6§oInactive
+tile.contenttweaker.amphibiyte_spawner_inactive.name=Amphibiyte Spawner - §6§oInactive
+tile.contenttweaker.nethengeic_beast_spawner_inactive.name=Nethengic Beast Spawner - §6§oInactive
 
 item.contenttweaker.ink_sac_cyan.name=Cyan Ink Sac
 item.contenttweaker.nethengeic_core.name=Nethengic Core

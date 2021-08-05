@@ -2,10 +2,10 @@
 
 mods.tconstruct.Casting.addTableRecipe
 (
-<contenttweaker:nethengeic_core>,
-<minecraft:fire_charge>,
-<liquid:pyroember>,
-720,
-true,
-400
+    <contenttweaker:nethengeic_core>,
+    <minecraft:fire_charge>,
+    <liquid:pyroember>,
+    720,
+    true,
+    400
 );
