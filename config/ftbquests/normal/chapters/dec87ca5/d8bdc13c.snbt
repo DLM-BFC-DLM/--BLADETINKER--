@@ -1,0 +1,55 @@
+{
+	title: "金属，金属！闪闪的！亮亮的！",
+	x: -6.0d,
+	y: -3.0d,
+	description: "嫁给那美女，身体向前倾，统共一百斤",
+	text: [
+		"钾钙钠镁铝，锌铁锡铅氢，铜汞银铂金"
+	],
+	dependencies: [
+		"0ac7b353"
+	],
+	tasks: [{
+		uid: "ead3ffdb",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 9L
+	},
+	{
+		uid: "a5372193",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 128"
+		}],
+		count: 5L
+	},
+	{
+		uid: "a6b86773",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 132"
+		}],
+		count: 4L
+	},
+	{
+		uid: "c56f2a41",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ingot"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "ddae3855",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 9
+	},
+	{
+		uid: "e1d312e9",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,319 @@
+{
+	title: "模具",
+	loot_size: 1,
+	rewards: [{
+		item: "tconstruct:pattern"
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:polishing_kit"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:binding"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:tough_binding"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:knife_blade"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:pan_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "plustic:battery_cell"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:arrow_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:bow_limb"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:armor_trim"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:broad_axe_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:large_sword_blade"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:scythe_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:wide_guard"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:hand_guard"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:sign_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:chest_core"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:pick_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:armor_plate"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:shard"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:sword_blade"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:large_plate"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:arrow_shaft"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:tough_tool_rod"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:hammer_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:sharpening_kit"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:tool_rod"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconevo:part_arcane_focus"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:kama_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "plustic:pipe_piece"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:leggings_core"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:boots_core"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "plustic:laser_medium"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:shovel_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:cross_guard"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:helmet_core"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:fletching"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:axe_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:excavator_head"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:bow_string"
+			}
+		}
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "这是！工作台？！",
+	icon: "minecraft:crafting_table",
+	x: -0.5d,
+	y: 1.0d,
+	shape: "rsquare",
+	description: "都是老朋友了",
+	text: [
+		"你不会真的连工作台都不会做吧？",
+		"选出一条路，走出第一步"
+	],
+	dependencies: [
+		"3f52eb4b"
+	],
+	tasks: [{
+		uid: "6386e244",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "70a27b40",
+		type: "item",
+		item: "minecraft:log",
+		count: 16
+	}]
+}

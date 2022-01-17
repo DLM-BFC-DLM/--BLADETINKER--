@@ -1,0 +1,36 @@
+{
+	title: "金属注模",
+	icon: "tconstruct:cast",
+	disable_toast: true,
+	x: 4.5d,
+	y: -8.5d,
+	description: "进阶工具",
+	text: [
+		"使用熔融铝黄铜或熔融金浇铸任意材料部件，即可产生对应注模，不过要小心，这类浇铸可是会消耗用来浇铸的物品的呦~"
+	],
+	dependencies: [
+		"3fbb31ba",
+		"32f2bf73"
+	],
+	tasks: [{
+		uid: "8f5c8ecd",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:tool_rod"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "9be61faa",
+		type: "item",
+		item: "minecraft:gold_block"
+	},
+	{
+		uid: "44199297",
+		type: "toast",
+		title: "你会选择去做哪种注模呢？真是，令人好奇呢~",
+		icon: "tconstruct:cast"
+	}]
+}

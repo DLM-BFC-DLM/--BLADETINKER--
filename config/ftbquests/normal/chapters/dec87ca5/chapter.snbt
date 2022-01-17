@@ -1,0 +1,7 @@
+{
+	title: "[Vanilla] - [主世界] - 一切的开始",
+	icon: "minecraft:grass",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

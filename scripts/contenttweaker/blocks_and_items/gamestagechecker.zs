@@ -6,6 +6,6 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Item;
 
 var gamestagechecker = VanillaFactory.createItem("gamestagechecker");
-inkSacCyan.maxStackSize = 1;
-inkSacCyan.creativeTab = <creativetab:misc>;
-inkSacCyan.register();
+gamestagechecker.maxStackSize = 1;
+gamestagechecker.creativeTab = <creativetab:misc>;
+gamestagechecker.register();

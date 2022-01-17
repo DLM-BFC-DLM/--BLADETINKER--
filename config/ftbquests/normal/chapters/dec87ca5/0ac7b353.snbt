@@ -1,0 +1,56 @@
+{
+	title: "获得升级",
+	icon: "minecraft:stone_pickaxe",
+	x: -4.5d,
+	y: -2.0d,
+	description: "下矿时要做好万全准备",
+	text: [
+		""
+	],
+	dependencies: [
+		"4596833f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d713da23",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "be809f94",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d8e83072",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "60b6a74e",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f38b326d",
+		type: "item",
+		item: "minecraft:cobblestone",
+		count: 16
+	}]
+}

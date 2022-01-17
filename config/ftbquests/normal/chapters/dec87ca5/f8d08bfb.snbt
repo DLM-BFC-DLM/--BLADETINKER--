@@ -1,0 +1,78 @@
+{
+	title: "冶炼厂",
+	x: 2.5d,
+	y: -5.5d,
+	description: "轰隆！轰轰轰~",
+	text: [
+		"好小呀，真的很可耐~"
+	],
+	dependencies: [
+		"e5492f33"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "edb3baa9",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared 1 3"
+		}],
+		count: 16L
+	},
+	{
+		uid: "fe0afba6",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_tank"
+		}]
+	},
+	{
+		uid: "07b729cf",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	},
+	{
+		uid: "caadfeae",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}]
+	},
+	{
+		uid: "6aee2980",
+		type: "item",
+		items: [{
+			item: "tconstruct:faucet"
+		}]
+	},
+	{
+		uid: "aea321f2",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting"
+		}]
+	},
+	{
+		uid: "193dfde5",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "84c25feb",
+		type: "item",
+		item: "tconstruct:seared 1 3"
+	},
+	{
+		uid: "aa6d62e3",
+		type: "item",
+		item: "tconstruct:smeltery_io"
+	},
+	{
+		uid: "72c438ee",
+		type: "item",
+		item: "tconstruct:faucet"
+	}]
+}

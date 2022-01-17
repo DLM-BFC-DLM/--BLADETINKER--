@@ -1,0 +1,28 @@
+{
+	title: "什么也干不了",
+	icon: {
+		id: "tconstruct:tool_rod",
+		tag: {
+			Material: "stone"
+		}
+	},
+	x: 6.0d,
+	y: -5.5d,
+	description: "只有一个部件",
+	text: [
+		"你是否感到了局限？"
+	],
+	dependencies: [
+		"9517f8bf"
+	],
+	tasks: [{
+		uid: "23d19c9a",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "stone"
+			}
+		}]
+	}]
+}

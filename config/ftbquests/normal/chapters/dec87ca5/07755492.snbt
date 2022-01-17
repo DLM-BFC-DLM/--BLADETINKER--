@@ -1,0 +1,28 @@
+{
+	title: "用利刃，征服大地！",
+	icon: "minecraft:wooden_sword",
+	x: -4.5d,
+	y: 1.0d,
+	description: "也许应该拿出你的剑",
+	text: [
+		"但有时候，武力不是唯一的解决办法，不是吗？"
+	],
+	dependencies: [
+		"f169d580"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "f912f0f3",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8dbea848",
+		type: "xp",
+		xp: 100
+	}]
+}

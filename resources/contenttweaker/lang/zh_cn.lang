@@ -4,6 +4,8 @@ tile.contenttweaker.nethengeic_beast_spawner_inactive.name=纳德吉克兽刷怪
 item.contenttweaker.ink_sac_cyan.name=青色墨囊（青囊？）
 item.contenttweaker.nethengeic_core.name=纳德吉克核心
 item.contenttweaker.rice_hybrid.name=杂交水稻
+item.contenttweaker.rutile.name=金红石
+item.contenttweaker.gamestagechecker.name=游戏版块CHECKER
 
 fluid.pyroember=炽焰之余烬
-
+fluid.rutile_molten=熔融金红石

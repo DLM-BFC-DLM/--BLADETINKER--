@@ -1,0 +1,27 @@
+{
+	title: "我只想种田",
+	x: -3.0d,
+	y: 3.5d,
+	description: "佛系玩家*1",
+	text: [
+		"独树一帜！种植业！"
+	],
+	dependencies: [
+		"f169d580"
+	],
+	tasks: [{
+		uid: "f74af065",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d914b53a",
+		type: "item",
+		item: "minecraft:wheat_seeds",
+		count: 64
+	}]
+}

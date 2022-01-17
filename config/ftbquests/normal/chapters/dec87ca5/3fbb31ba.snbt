@@ -1,0 +1,24 @@
+{
+	title: "合金耶",
+	icon: "tconstruct:metal 1 5",
+	x: 3.5d,
+	y: -7.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f8d08bfb"
+	],
+	tasks: [{
+		uid: "a087fdc3",
+		type: "item",
+		items: [{
+			item: "tconstruct:metal 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "579633a3",
+		type: "random",
+		table: 0
+	}]
+}

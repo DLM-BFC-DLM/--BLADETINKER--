@@ -1,0 +1,42 @@
+{
+	title: "开林辟荒，哎嘿呦~",
+	icon: "minecraft:wooden_axe",
+	x: 3.5d,
+	y: 1.0d,
+	description: "木斧手中握，山神心中留",
+	text: [
+		"你听到...树的尖叫声了吗......树苗会有的，树木也会有的"
+	],
+	dependencies: [
+		"f169d580"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "e0c87266",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2281cba3",
+		type: "item",
+		item: {
+			id: "minecraft:cooked_porkchop",
+			tag: {
+				display: {
+					Name: "砍树可是个力气活"
+				}
+			}
+		},
+		count: 10
+	},
+	{
+		uid: "196a5ef2",
+		type: "item",
+		item: "minecraft:sapling",
+		count: 32
+	}]
+}

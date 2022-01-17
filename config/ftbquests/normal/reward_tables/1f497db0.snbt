@@ -1,0 +1,28 @@
+{
+	title: "基础金属",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:gold_ore",
+		count: 9
+	},
+	{
+		item: "minecraft:iron_ore",
+		count: 9,
+		weight: 12
+	},
+	{
+		item: "thermalfoundation:ore",
+		count: 16,
+		weight: 6
+	},
+	{
+		item: "thermalfoundation:ore 1 1",
+		count: 16,
+		weight: 6
+	},
+	{
+		item: "thermalfoundation:ore 1 4",
+		count: 16,
+		weight: 6
+	}]
+}

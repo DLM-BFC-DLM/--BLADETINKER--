@@ -1,0 +1,29 @@
+{
+	title: "来真的",
+	x: -8.5d,
+	y: -1.5d,
+	description: "木头刀什么的，小孩子的玩具罢了",
+	text: [
+		""
+	],
+	dependencies: [
+		"62c4f168",
+		"d8bdc13c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d15e3f34",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "flammpfeil.slashblade:slashbladewhite",
+			tag: {
+				SB.SEffect: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

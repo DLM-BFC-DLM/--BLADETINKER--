@@ -1,0 +1,7 @@
+{
+	title: "[地狱] - 往下，再往下",
+	icon: "minecraft:netherrack",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

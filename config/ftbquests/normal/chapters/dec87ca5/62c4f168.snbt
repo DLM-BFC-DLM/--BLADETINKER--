@@ -1,0 +1,37 @@
+{
+	title: "比木剑更好",
+	icon: {
+		ForgeCaps: {
+			Parent: {}
+		},
+		id: "flammpfeil.slashblade:slashbladewood",
+		tag: {
+			SB.SEffect: {}
+		}
+	},
+	x: -7.0d,
+	y: 0.5d,
+	description: "你的第一把拔刀剑",
+	text: [
+		"拔刀剑，右键攻击敌对生物，可连击，左键攻击所有生物（伤害显示别看-0.2那个）"
+	],
+	dependencies: [
+		"07755492"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d02c4f6d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "flammpfeil.slashblade:slashbladewood",
+			tag: {
+				SB.SEffect: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

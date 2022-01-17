@@ -1,0 +1,22 @@
+{
+	title: "我火了！",
+	icon: "minecraft:furnace",
+	x: -1.5d,
+	y: -3.5d,
+	description: "熔炉，啊，带来温暖！",
+	text: [
+		""
+	],
+	dependencies: [
+		"4596833f"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "f7406f9f",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}]
+}

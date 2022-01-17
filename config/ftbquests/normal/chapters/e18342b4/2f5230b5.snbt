@@ -1,0 +1,18 @@
+{
+	title: "这里就是下界吗？",
+	x: -13.5d,
+	y: -7.0d,
+	shape: "circle",
+	description: "i了i了",
+	text: [
+		"这就惊讶啦。"
+	],
+	dependencies: [
+		"ebd3b835"
+	],
+	tasks: [{
+		uid: "79c4b947",
+		type: "dimension",
+		dim: -1
+	}]
+}

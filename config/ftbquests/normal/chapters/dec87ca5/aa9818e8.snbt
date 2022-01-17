@@ -1,0 +1,19 @@
+{
+	title: "小小的身躯，大大的能量",
+	x: 0.5d,
+	y: -5.5d,
+	text: [
+		"emmm......"
+	],
+	dependencies: [
+		"b590360f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3edf4af1",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	title: "睁开双眼",
+	x: -0.5d,
+	y: 2.5d,
+	shape: "circle",
+	description: "额...陌生的地方，或许应该下定决心，迈出第一步",
+	text: [
+		"[单击“√”以开始]"
+	],
+	tasks: [{
+		uid: "5c3a641b",
+		type: "checkmark",
+		title: "准备好了吗？"
+	}]
+}

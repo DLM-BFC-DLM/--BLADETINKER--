@@ -1,0 +1,35 @@
+{
+	title: "地下的宝藏是无穷无尽的!",
+	icon: "minecraft:wooden_pickaxe",
+	x: -2.5d,
+	y: -1.5d,
+	description: "十字镐吗？还蛮顺手的",
+	text: [
+		"你会寂寞吗？"
+	],
+	dependencies: [
+		"f169d580"
+	],
+	tasks: [{
+		uid: "dc9bd636",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "40174f7f",
+		type: "command",
+		title: "麒麟臂充满了力量",
+		icon: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "cofhcore:haste2"
+			}
+		},
+		command: "/effect @s minecraft:haste 3 100",
+		player_command: true
+	}]
+}

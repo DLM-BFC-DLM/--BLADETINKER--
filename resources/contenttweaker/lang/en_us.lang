@@ -4,5 +4,8 @@ tile.contenttweaker.nethengeic_beast_spawner_inactive.name=Nethengic Beast Spawn
 item.contenttweaker.ink_sac_cyan.name=Cyan Ink Sac
 item.contenttweaker.nethengeic_core.name=Nethengic Core
 item.contenttweaker.rice_hybrid.name=Hybrid Rice
+item.contenttweaker.rutile.name=Rutile
+item.contenttweaker.gamestagechecker.name=GameStage CHECKER
 
 fluid.pyroember=Pyroember
+fluid.rutile_molten=Molten Rutile

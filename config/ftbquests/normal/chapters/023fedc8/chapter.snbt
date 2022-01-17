@@ -1,0 +1,7 @@
+{
+	title: "[末地] - 终末，早已开始",
+	icon: "minecraft:end_stone",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

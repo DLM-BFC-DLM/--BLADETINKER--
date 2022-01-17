@@ -3,22 +3,12 @@
     "0:9": "projecte:item.pe_philosophers_stone,1,0,{}",
     "0:11": "projecte:item.pe_klein_star,1,5,{}",
     "1:2": "conarm:chestplate,1,3,{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:64,Defense:3.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:64,Defense:3.0f},EA_ENABLED:1b,ConArmEquipmentSlot:4,EXPERIENCE:18,RARITY:1,TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"ecological_armor\",color:-7444965,level:1},{identifier:\"leveling_armor\",color:16777215,level:1,xp:4,bonus_modifiers:0}],Traits:[\"ecological_armor\",\"leveling_armor\"]}",
-    "0:16": "tconstruct:casting",
-    "0:20": "tconstruct:seared_glass",
     "1:1": "conarm:leggings,1,2,{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:61,Defense:3.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:61,Defense:3.0f},EA_ENABLED:1b,ConArmEquipmentSlot:3,EXPERIENCE:18,RARITY:1,TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"ecological_armor\",color:-7444965,level:1},{identifier:\"leveling_armor\",color:16777215,level:1,xp:4,bonus_modifiers:0}],Traits:[\"ecological_armor\",\"leveling_armor\"]}",
     "1:3": "conarm:helmet,1,3,{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:45,Defense:3.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:45,Defense:3.0f},EA_ENABLED:1b,ConArmEquipmentSlot:5,EXPERIENCE:18,RARITY:3,TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"ecological_armor\",color:-7444965,level:1},{identifier:\"leveling_armor\",color:16777215,level:1,xp:4,bonus_modifiers:0}],Traits:[\"ecological_armor\",\"leveling_armor\"]}",
-    "0:13": "tconstruct:smeltery_controller",
-    "0:19": "tconstruct:seared,1,3,{\"akashictome:definedMod\":\"tconstruct\"}",
-    "0:18": "tconstruct:seared_tank",
-    "0:23": "taiga:vibranium_ore",
     "1:0": "conarm:boots,1,2,{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:53,Defense:3.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:53,Defense:3.0f},EA_ENABLED:1b,ConArmEquipmentSlot:2,EXPERIENCE:18,RARITY:1,TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"ecological_armor\",color:-7444965,level:1},{identifier:\"leveling_armor\",color:16777215,level:1,xp:4,bonus_modifiers:0}],Traits:[\"ecological_armor\",\"leveling_armor\"]}",
+    "0:23": "taiga:vibranium_ore",
     "0:10": "projecte:transmutation_table",
     "0:12": "projecte:item.pe_alchemical_bag",
-    "0:21": "tconstruct:faucet",
-    "0:15": "tconstruct:casting,1,1",
-    "0:14": "tconstruct:smeltery_io",
-    "0:22": "tconstruct:seared_tank,1,2",
-    "0:17": "tconstruct:seared_tank,1,1",
     "2:0": "akashictome:tome,1,0,{\"akashictome:data\":{tconstruct:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:book\",Count:1b,tag:{\"akashictome:definedMod\":\"tconstruct\"},Damage:0s},botania:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:lexicon\",Count:1b,tag:{\"akashictome:definedMod\":\"botania\"},Damage:0s},draconicevolution:{id:\"draconicevolution:info_tablet\",Count:1b,tag:{\"akashictome:definedMod\":\"draconicevolution\"},Damage:0s},thelegendofthebrave:{id:\"thelegendofthebrave:help\",Count:1b,tag:{\"akashictome:definedMod\":\"thelegendofthebrave\"},Damage:0s},astralsorcery:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemjournal\",Count:1b,tag:{\"akashictome:definedMod\":\"astralsorcery\"},Damage:0s},conarm:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:book\",Count:1b,tag:{\"akashictome:definedMod\":\"conarm\"},Damage:0s},botania1:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:lexicon\",Count:1b,tag:{knowledge.minecraft:1b,\"akashictome:definedMod\":\"botania1\",knowledge.alfheim:1b,knowledge.relic:1b},Damage:0s},slashbladetic:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"slashbladetic:book_smith\",Count:1b,tag:{\"akashictome:definedMod\":\"slashbladetic\"},Damage:0s},lastsmith:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"patchouli:guide_book\",Count:1b,tag:{\"akashictome:definedMod\":\"lastsmith\",\"patchouli:book\":\"lastsmith:smith_guide\"},Damage:0s},hammercore:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"hammercore:manual\",Count:1b,tag:{\"akashictome:definedMod\":\"hammercore\"},Damage:0s},openblocks:{id:\"openblocks:info_book\",Count:1b,tag:{\"akashictome:definedMod\":\"openblocks\"},Damage:0s}}}"
   }
 }

@@ -1,0 +1,43 @@
+{
+	title: "好松散",
+	icon: "tconstruct:soil",
+	x: 2.0d,
+	y: -3.5d,
+	text: [
+		"“烧制”焦黑砖可是要不少“熔炉”、水泥和燃料呢。"
+	],
+	dependencies: [
+		"b590360f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "cf787f1c",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}],
+		count: 48L
+	},
+	{
+		uid: "5f4fc81a",
+		type: "item",
+		items: [{
+			item: "minecraft:clay"
+		}],
+		count: 12L
+	},
+	{
+		uid: "e6db2337",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}],
+		count: 48L
+	}],
+	rewards: [{
+		uid: "abbc2a79",
+		type: "item",
+		item: "tconstruct:materials",
+		count: 12
+	}]
+}

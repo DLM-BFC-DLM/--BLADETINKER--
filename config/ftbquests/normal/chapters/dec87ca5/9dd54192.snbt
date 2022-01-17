@@ -1,0 +1,21 @@
+{
+	title: "钻石钻石亮晶晶",
+	icon: "minecraft:diamond",
+	x: -7.0d,
+	y: -5.5d,
+	description: "就像天上小星星",
+	text: [
+		""
+	],
+	dependencies: [
+		"d8bdc13c"
+	],
+	tasks: [{
+		uid: "7978c7b9",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}],
+		count: 4L
+	}]
+}
