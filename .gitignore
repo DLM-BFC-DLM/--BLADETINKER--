@@ -4,11 +4,11 @@ $ cat .gitignore
 
 #Folders
 !/config
-!/LICENSE
 !/resources
 !/scripts
 #Files
+!/.gitignore
+!/LICENSE
 !/options.txt
 !/optionsof.txt
-!/.gitignore
 !/README.md
