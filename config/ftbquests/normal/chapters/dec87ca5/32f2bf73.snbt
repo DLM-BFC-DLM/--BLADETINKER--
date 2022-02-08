@@ -6,8 +6,8 @@
 			Material: "stone"
 		}
 	},
-	x: 6.0d,
-	y: -5.5d,
+	x: 0.5d,
+	y: -5.0d,
 	description: "只有一个部件",
 	text: [
 		"你是否感到了局限？"

@@ -2,9 +2,9 @@
 	title: "金属注模",
 	icon: "tconstruct:cast",
 	disable_toast: true,
-	x: 4.5d,
-	y: -8.5d,
-	description: "进阶工具",
+	x: 0.5d,
+	y: -7.0d,
+	description: "工具进阶，正式开启匠魂之旅",
 	text: [
 		"使用熔融铝黄铜或熔融金浇铸任意材料部件，即可产生对应注模，不过要小心，这类浇铸可是会消耗用来浇铸的物品的呦~"
 	],

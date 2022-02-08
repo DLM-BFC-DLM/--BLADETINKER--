@@ -1,8 +1,8 @@
 {
 	title: "获得升级",
 	icon: "minecraft:stone_pickaxe",
-	x: -4.5d,
-	y: -2.0d,
+	x: -5.0d,
+	y: -4.0d,
 	description: "下矿时要做好万全准备",
 	text: [
 		""

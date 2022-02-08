@@ -1,14 +1,16 @@
 {
 	title: "合金耶",
 	icon: "tconstruct:metal 1 5",
-	x: 3.5d,
-	y: -7.0d,
+	x: -1.0d,
+	y: -8.5d,
 	text: [
 		""
 	],
 	dependencies: [
+		"d8bdc13c",
 		"f8d08bfb"
 	],
+	hide: true,
 	tasks: [{
 		uid: "a087fdc3",
 		type: "item",

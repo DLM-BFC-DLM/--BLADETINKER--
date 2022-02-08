@@ -1,13 +1,14 @@
 {
 	title: "匠魂五件套",
-	x: 6.5d,
-	y: -2.0d,
+	x: 0.0d,
+	y: -3.0d,
 	text: [
 		""
 	],
 	dependencies: [
 		"58867346"
 	],
+	hide: true,
 	tasks: [{
 		uid: "b430a379",
 		type: "item",

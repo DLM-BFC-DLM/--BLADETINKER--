@@ -11,5 +11,11 @@
 		uid: "5c3a641b",
 		type: "checkmark",
 		title: "准备好了吗？"
+	}],
+	rewards: [{
+		uid: "861f2719",
+		type: "toast",
+		title: "你开启作弊模式了吗？没开就快去开！",
+		icon: "minecraft:command_block"
 	}]
 }

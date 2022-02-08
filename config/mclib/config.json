@@ -5,6 +5,7 @@
         "enable_borders": false,
         "enable_checkbox_rendering": false,
         "enable_trackpad_increments": true,
+        "trackpad_decimal_places": 6,
         "enable_grid_rendering": true,
         "user_interface_scale": 2,
         "tooltip_style": 1,

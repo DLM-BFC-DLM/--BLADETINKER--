@@ -1,8 +1,9 @@
 {
 	title: "我火了！",
 	icon: "minecraft:furnace",
-	x: -1.5d,
-	y: -3.5d,
+	disable_toast: true,
+	x: -2.0d,
+	y: -5.0d,
 	description: "熔炉，啊，带来温暖！",
 	text: [
 		""

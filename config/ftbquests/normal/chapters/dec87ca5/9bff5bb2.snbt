@@ -1,7 +1,7 @@
 {
 	title: "来真的",
-	x: -8.5d,
-	y: -1.5d,
+	x: -9.0d,
+	y: -4.0d,
 	description: "木头刀什么的，小孩子的玩具罢了",
 	text: [
 		""
@@ -21,7 +21,8 @@
 			id: "flammpfeil.slashblade:slashbladewhite",
 			tag: {
 				SB.SEffect: {}
-			}
+			},
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,8 +1,8 @@
 {
 	title: "我将一往无前！",
 	icon: "minecraft:obsidian",
-	x: -2.5d,
-	y: -9.0d,
+	x: 3.0d,
+	y: -12.0d,
 	shape: "octagon",
 	description: "地狱，我来了！",
 	text: [
@@ -11,7 +11,6 @@
 	],
 	dependencies: [
 		"aa9818e8",
-		"a5b76522",
 		"9dd54192"
 	],
 	hide: true,

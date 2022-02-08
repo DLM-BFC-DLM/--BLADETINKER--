@@ -1,8 +1,8 @@
 {
 	title: "我想挖土",
 	icon: "minecraft:wooden_shovel",
-	x: 1.5d,
-	y: -1.5d,
+	x: 3.5d,
+	y: 1.0d,
 	text: [
 		"你永远也想不到这有多重要"
 	],

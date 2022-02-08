@@ -1,8 +1,8 @@
 {
 	title: "钻石钻石亮晶晶",
 	icon: "minecraft:diamond",
-	x: -7.0d,
-	y: -5.5d,
+	x: -3.0d,
+	y: -10.5d,
 	description: "就像天上小星星",
 	text: [
 		""

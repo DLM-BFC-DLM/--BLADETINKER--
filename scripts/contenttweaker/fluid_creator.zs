@@ -20,22 +20,20 @@ function fluidCreator//定义函数
     temperature as int,//流体温度，水为300，熔岩为1300
     isVaporizable as bool,//流体在下界是否会蒸发
     viscosity as int//流体黏度，决定流体流动速度，水为1000，熔岩为3000
-)//此函数无返回值
-{//函数主体代码内容
+)/*此函数无返回值*/{//函数主体代码内容
 #priority priority
 
-var fAN/*means "fluid and name"*/ = VanillaFactory.createFluid(ID, Color.fromHex(color));
-<<<<<<< HEAD
-fAN.colorize = isColorized;
-fAN.density = density;
-fAN.gaseous = isGaseous;
-fAN.luminosity = luminosity;
-fAN.material = material;
-fAN.rarity = rarity;
-fAN.stillLocation = "dlmbfcdlmmodpackcertification:fluids/" ~ ID ~ "_still";//材质加载位置受限
-fAN.flowingLocation = "dlmbfcdlmmodpackcertification:fluids/" ~ ID ~ "_flow";
-fAN.temperature = temperature;
-fAN.vaporize = isVaporizable;
-fAN.viscosity = viscosity;
-fAN.register();
+var cCF/*means "contenttweaker-created fluid"*/ as Fluid = VanillaFactory.createFluid(ID, Color.fromHex(color));
+cCF.colorize = isColorized;
+cCF.density = density;
+cCF.gaseous = isGaseous;
+cCF.luminosity = luminosity;
+cCF.material = material;
+cCF.rarity = rarity;
+cCF.stillLocation = "dlmbfcdlmmodpackcertification:fluids/" ~ ID ~ "_still";//材质加载位置受限
+cCF.flowingLocation = "dlmbfcdlmmodpackcertification:fluids/" ~ ID ~ "_flow";
+cCF.temperature = temperature;
+cCF.vaporize = isVaporizable;
+cCF.viscosity = viscosity;
+cCF.register();
 }//函数结束

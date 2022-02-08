@@ -14,9 +14,10 @@ function gSUnlock(
 ){
     events.onPlayerRightClickItem(
         function(event as crafttweaker.event.PlayerRightClickItemEvent){
-            if(event.player.currentItem.definition.id == unlockerID && !event.player.hasGameStage(sName) && !event.player.world.remote){
-                event.player.addGameStage(sName);
-                event.player.sendMessage("\n\n\n\n" + event.player.name + "解锁了游戏版块：§b[" + description + "]§f！");
+            val eP = event.player;
+            if(eP.currentItem.definition.id == unlockerID && eP.hasGameStage(sName) == false && eP.world.remote == false){
+                eP.addGameStage(sName);
+                eP.sendMessage("\n\n\n\n" + eP.name + "解锁了游戏版块：§b[" + description + "]§f！");
             }
         }
     );
@@ -35,21 +36,22 @@ var stageNames as string[] = ["advance-metals"];//此处放在events内外无所
 var stageDescriptions as string[] = ["[进阶金属 §lThe ADVANCE-METALs]"];//此处放在events内外无所谓，调用只能向内
 events.onPlayerRightClickItem(
     function(event as crafttweaker.event.PlayerRightClickItemEvent){//一种形式的检测，代码和外观都很简洁
-        if(event.player.currentItem.definition.id == "contenttweaker:gamestagechecker" && !event.player.world.remote){//判断是否为GSChecker
-            event.player.sendMessage("\n\n\n游戏版块：");
+        val eP = event.player;
+        if(eP.currentItem.definition.id == "contenttweaker:gamestagechecker" && eP.world.remote == false){//判断是否为GSChecker
+            eP.sendMessage("\n\n\n游戏版块：");
             var trueStages as string[] = [];//定义数组
             var falseStages as string[] = [];
             for i, stageName in stageNames{//foreach循环，遍历数组，i为一个变量，表示循环了几次（程序员数数是从0开始数的，第一次循环i=0，第二次为1....）
-                if(event.player.hasGameStage(stageName)){//player拥有某GameStage
-                    event.player.sendMessage("§2" + stageDescriptions[i] + " - §f§2已解锁");
+                if(eP.hasGameStage(stageName) == true){//player拥有某GameStage
+                    eP.sendMessage("§2" + stageDescriptions[i] + " - §f§2已解锁");
                     trueStages += stageName;
                 }
                 else{//player未拥有某GameStage
-                    event.player.sendMessage("§4" + stageDescriptions[i] + " - §f§4未解锁");
+                    eP.sendMessage("§4" + stageDescriptions[i] + " - §f§4未解锁");
                     falseStages += stageName;
                 }
             }
-            event.player.sendMessage("共有" + stageNames.length + "个游戏版块，已解锁§2" + trueStages.length + "§f个，未解锁§4" + falseStages.length + "§f个。");
+            eP.sendMessage("共有" + stageNames.length + "个游戏版块，已解锁§2" + trueStages.length + "§f个，未解锁§4" + falseStages.length + "§f个。");
         }
     }
 );

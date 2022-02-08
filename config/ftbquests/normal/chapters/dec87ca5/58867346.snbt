@@ -1,8 +1,8 @@
 {
 	title: "开林辟荒，哎嘿呦~",
 	icon: "minecraft:wooden_axe",
-	x: 3.5d,
-	y: 1.0d,
+	x: 1.5d,
+	y: -1.5d,
 	description: "木斧手中握，山神心中留",
 	text: [
 		"你听到...树的尖叫声了吗......树苗会有的，树木也会有的"

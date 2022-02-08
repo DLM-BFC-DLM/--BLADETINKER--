@@ -1,7 +1,0 @@
-# Client command usage
-command.veinminerc.set.disabled=
-command.veinminerc.set.pressed=
-command.veinminerc.set.released=
-
-# Preferred mode confirmation
-mod.veinminer.preferredmode.auto=

@@ -2,10 +2,10 @@ tile.contenttweaker.amphibiyte_spawner_inactive.name=Amphibiyte Spawner - §6§o
 tile.contenttweaker.nethengeic_beast_spawner_inactive.name=Nethengic Beast Spawner - §6§oInactive
 
 item.contenttweaker.ink_sac_cyan.name=Cyan Ink Sac
-item.contenttweaker.nethengeic_core.name=Nethengic Core
+item.contenttweaker.core_nethengeic.name=Nethengic Core
 item.contenttweaker.rice_hybrid.name=Hybrid Rice
 item.contenttweaker.rutile.name=Rutile
-item.contenttweaker.gamestagechecker.name=GameStage CHECKER
+item.contenttweaker.gamestage_checker.name=GameStage CHECKER
 
 fluid.pyroember=Pyroember
 fluid.rutile_molten=Molten Rutile
